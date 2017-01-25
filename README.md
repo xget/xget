@@ -1,1 +1,2 @@
-# xget
+# The purpose of xget is to quickly and easily download internet files without being faced by security warnings or firewalls. To download any file, simply enter the url of the file's raw source and click enter. A small progress screen will appear telling you how much time is left and how much of the file is downloaded. The only limitation is that the file must be in our repository. This is done for security reasons so we can review your program before allowing it to be downloaded without displaying security warnings or passing through firewalls.
+# An example url for a file's raw source would be: https://raw.githubusercontent.com/xget/files/master/yourfile.extension
