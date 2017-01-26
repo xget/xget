@@ -27,7 +27,7 @@ goto %b%
 
 :0
 cls
-bitsadmin.exe /transfer "xget Download" https://raw.githubusercontent.com/xget/xget/master/update.xget.bat %USERPROFILE%\Desktop\update.xget.bat
-start %USERPROFILE%\Desktop\update.xget.bat
+bitsadmin.exe /transfer "xget Download" https://raw.githubusercontent.com/xget/xget/master/update.xget.bat %USERPROFILE%\Downloads\update.xget.bat
+start %USERPROFILE%\Downloads\update.xget.bat
 Exit
 
