@@ -4,11 +4,8 @@ color f0
 
 :home
 cls
-set /p c=Code:
-if %c% == 0 goto c1
-goto home
-
-:c1
+set /p u=URL (after https://raw.githubusercontent.com/xget/):
 cls
-bitsadmin.exe /transfer "xget Download" https://raw.githubusercontent.com/xget/xget/master/xget.bat %USERPROFILE%\Desktop\xget-updated.bat
+set /p f=Full File Name (ex. me.extension):
+bitsadmin.exe /transfer "xget Download" https://raw.githubusercontent.com/xget/%c% %USERPROFILE%\Desktop\xget-updated.bat
 goto home
