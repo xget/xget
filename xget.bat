@@ -7,5 +7,5 @@ cls
 set /p u=URL (after https://raw.githubusercontent.com/xget/):
 cls
 set /p f=Full File Name (ex. me.extension):
-bitsadmin.exe /transfer "xget Download" https://raw.githubusercontent.com/xget/%c% %USERPROFILE%\Desktop\xget-updated.bat
+bitsadmin.exe /transfer "xget Download" https://raw.githubusercontent.com/xget/%u% %USERPROFILE%\Desktop\%f%
 goto home
