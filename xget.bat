@@ -4,8 +4,8 @@ color f0
 
 :h
 cls
-echo ³1³ xget
-echo ³2³ xbit
+echo (1) xget
+echo (2) xbit
 set /p n=
 if %n% == 1 goto xget
 if %n% == 2 goto xbit
