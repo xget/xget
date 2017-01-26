@@ -6,4 +6,4 @@ color f0
 cls
 del %USERPROFILE%\Desktop\xget.bat
 bitsadmin.exe /transfer "xget Update" https://raw.githubusercontent.com/xget/xget/master/xget.bat %USERPROFILE%\Desktop\xget.bat
-del %USERPROFILE%\Downloads\update.xget.bat
+Exit
