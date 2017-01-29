@@ -1,4 +1,4 @@
 # The purpose of xget is to quickly and easily download internet files without being faced by security warnings or firewalls. To download any file, simply enter the url of the file's raw source and click enter. A small progress screen will appear telling you how much time is left and how much of the file is downloaded. The only limitation is that the file must be in our repository. This is done for security reasons so we can review your program before allowing it to be downloaded without displaying security warnings or passing through firewalls.
 # An example url for a file's raw source would be: https://raw.githubusercontent.com/xget/files/master/file.ext
-# For now, you can test the program by opening xget and then where it says 'URL (after https://raw.githubusercontent.com/xget/):', type files/master/test.txt and hit enter.
+# For now, you can test the program by opening xget, navigating to option 1 (xget) and then typing files/master/test.txt.
 # To get your file/program in our files folder so it can be downloaded with xget, please create an issue with the subject being xget request: your program, and the comment being a link to your program.
