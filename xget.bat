@@ -6,9 +6,11 @@ color f0
 cls
 echo (1) xget
 echo (2) xbit
+echo (3) Exit
 set /p n=
 if %n% == 1 goto xget
 if %n% == 2 goto xbit
+if %n% == 3 Exit
 goto h
 
 :xget
