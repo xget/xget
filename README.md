@@ -3,4 +3,4 @@
 # For now, you can test the program by opening xget, navigating to option 1 (xget), typing files/master/test.txt, and then for file name, typing test.txt.
 # To update xget, open xget, navigate to option 2 (xbit) and type 0.
 # To get your file/program in our files folder so it can be downloaded with xget, please create an issue with the subject being xget request: your program, and the comment being a link to your program.
-# If you have any special request, such as adding an xbit code, please contact us on <a href="https://gitter.com/xget">our gitter community</a>.
+# If you have any special request, such as adding an xbit code, please contact us on <a href="https://gitter.im/xget">our gitter community</a>.
