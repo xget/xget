@@ -4,3 +4,4 @@
 # To update xget, open xget, navigate to option 2 (xbit) and type 0.
 # To get your file/program in our files folder so it can be downloaded with xget, please create an issue with the subject being xget request: your program, and the comment being a link to your program.
 # If you have any special request, such as adding an xbit code, please contact us on <a href="https://gitter.im/xget">our gitter community</a>.
+# This code is licensed under the <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.
